@@ -1,0 +1,5 @@
+﻿  pthreadproject.cpp
+C:\Users\Болычев Леонид\C++\pthreadproject\pthreadproject\pthreadproject.cpp(52,12): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Болычев Леонид\C++\pthreadproject\pthreadproject\pthreadproject.cpp(80,12): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Болычев Леонид\C++\pthreadproject\pthreadproject\pthreadproject.cpp(63,9): warning C4101: sum: неиспользованная локальная переменная
+  pthreadproject.vcxproj -> C:\Users\Болычев Леонид\C++\pthreadproject\Debug\pthreadproject.exe
